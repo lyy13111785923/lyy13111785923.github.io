@@ -1,0 +1,1 @@
+import{_ as t,o as _,c as o,F as a,p as d,j as n,k as c}from"./index.f348e44f.js";const p={},s=e=>(d("data-v-17b5c5bd"),e=e(),n(),e),r=s(()=>c("div",{class:"three"},null,-1)),l=s(()=>c("p",null,"123123123",-1));function i(e,u){return _(),o(a,null,[r,l],64)}const f=t(p,[["render",i],["__scopeId","data-v-17b5c5bd"]]);export{f as default};

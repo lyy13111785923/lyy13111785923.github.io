@@ -1,0 +1,1 @@
+import e from"./FlipCalendar.0f3e4ea2.js";import{o,c as t,b as a}from"./index.f348e44f.js";import"./FlipCard.0fefc028.js";const r={class:"demo6",style:{padding:"20px"}},i={__name:"index",setup(s){return(c,n)=>(o(),t("div",r,[a(e)]))}};export{i as default};
